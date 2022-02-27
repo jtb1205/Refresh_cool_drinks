@@ -158,9 +158,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 cloudinary.config(
-    cloud_name="www-techis-io",
-    api_key="891747999686865",
-    api_secret="seWq_dLQRcb7O5eMY-XdAuznU_w",
+    cloud_name="duirdj3hg",
+    api_key="937392861951276",
+    api_secret="7drAQgJbo-hcE-GJAiQ7_PJ_7IU",
     secure=True
 )
 
